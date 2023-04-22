@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @coder-vinayak
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning REACT JS
 - 📫 How to reach me vinyaksharma2304@gmail.com
 - 😄 Pronouns: He/Him.
 - My Passion for MUSIC🎸 is permanant🎤....rest is temporary
